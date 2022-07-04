@@ -27,7 +27,7 @@
 # 开始部署
 部署并启动容器
 ```
-docker run -d --name bot -p 9527:9527 wuge6/bot:v1
+docker run -d --name bot -p 9527:9527 wuge6/bot
 ```
 进入容器  
 ```
