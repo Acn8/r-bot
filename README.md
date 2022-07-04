@@ -51,5 +51,5 @@ bash sh_client_bot.sh
 docker rm -f bot
 ```
 ```
-docker rmi -f wuge6/bot:v1
+docker rmi -f wuge6/bot
 ```
